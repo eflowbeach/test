@@ -1,0 +1,14 @@
+@import "node_modules/ol/ol.css";
+
+html, body {
+  /* margin: 400 px; */
+  height: 100%;
+}
+#map {
+  /* position: absolute;
+  top: 0;
+  bottom: 0; */
+  
+  height:90%;
+  width: 100%;
+}
